@@ -1,6 +1,6 @@
 
 const API_KEY = "AIzaSyDO38mSIu6VJzTW3v_Rh0A4a0zTiGJ6Ssg";
-const SHEET_ID = "1wXFoAHPPmviwPhziYbYqrKdHVQTd_O2Dfix1BHkAfmA";
+const SHEET_ID = "1FWWZGmQWkaarAm0YJOKe7yI5kRB0YhiH";
 const SHEET_NAME = "GENERAL";
 
 async function cargarResumen() {
